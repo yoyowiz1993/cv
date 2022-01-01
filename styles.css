@@ -1,5 +1,6 @@
 body {
-  background-color: #E3FDFD;
+  background-color: lightblue;
+
 }
 
 hr{
@@ -9,11 +10,18 @@ hr{
  color: grey;
 }
 
-img{
+img.front{
+  height: 100px;
+  width: 600px;
+}
+
+img.profile{
   height: 200px;
   width: 200px;
   border-radius: 50%;
 }
+
+
 
 h1{
   font-family: cursive;
